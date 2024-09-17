@@ -18,5 +18,13 @@ GRC stands for Governance, Risk and Compliance.
 <li>Policy: This is set of rules that govern the way in which certain processes should be carried out. NB: You may be reprimanded by the company for failing to follow a policy but policies by themselves do not typically carry any legal consequences.</li>
 <li>Standard: Standards are acceptable way of doing things.</li>
 <li>Guideline: Recommended way of completing a process or carrying out a task.</li>
+<br>
+<p>DAY 3: METADATA</p>
+What is Metadata?
+• Metadata is data about data. It provides context and meaning to raw data, making it easier to understand and manage.
+<br> Common characteristics include: 
+<li>Descriptions (e.g., file name, type) </li>
+<li>Classifications (e.g., tags, categories)</li> 
+<li>Structural details (e.g., data format)</li>
 
 <h2>STAY TUNED!!!</h2>
