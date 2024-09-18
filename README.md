@@ -1,7 +1,7 @@
 # Cybersecurity-My-GRC-Journey
 This repository serves as my GRC journal, encompassing everything I've learnt/still learning on GRC career path
 <h2>My daily cyber learning</h2>
-<p>DAY 1: What is GRC?</p>
+<p><b>DAY 1:</b>What is GRC?</p>
 GRC stands for Governance, Risk and Compliance.
 <br>According to IBM [https://www.ibm.com/topics/grc], GRC is an organizational strategy to manage governance and risks while maintaining compliance with industry and government regulations.
 <br>
@@ -9,7 +9,7 @@ GRC stands for Governance, Risk and Compliance.
 <p>Risk management is the process of identifying, assessing, and controlling financial, legal, strategic, and security risks to an organization. To reduce risk, an organization needs to apply resources to minimize, monitor and control the impact of negative events while maximizing positive events.</p>
 <p>Compliance involves adhering to rules, policies, standards, and laws determined by industries and/or government agencies. Non-compliance could cost an organization in terms of poor performance, costly mistakes, fines, penalties and lawsuits.</p>
 
-<p>DAY 2: Let's talk about basic RISK terms</p>
+<p><b>DAY 2:</b> Let's talk about basic RISK terms</p>
 <li>Vulnerability: A weakness in a system or environment with potential to be exploited by an attacker.</li>
 <li>Threat: Possibility of a vulnerability to be exploited (and ways it could be exploited.</li>
 <li>Risk: Likelihood of threat occuring and potential damage it would cause.</li>
@@ -19,7 +19,7 @@ GRC stands for Governance, Risk and Compliance.
 <li>Standard: Standards are acceptable way of doing things.</li>
 <li>Guideline: Recommended way of completing a process or carrying out a task.</li>
 <br>
-<p>DAY 3: METADATA</p>
+<p><b>DAY 3:</b> METADATA</p>
 What is Metadata? 
 <br>
 Metadata is data about data. It provides context and meaning to raw data, making it easier to understand and manage.
