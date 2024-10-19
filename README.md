@@ -41,5 +41,9 @@ Metadata is data about data. It provides context and meaning to raw data, making
 <br>
 5.	RECOVER (RC): Recovery plan is executed during or after an event. Recovery plans incorporate lessons learned, strategies are updated, Public relations are managed, Reputation after an event is repaired. Recovery activities are communicated to internal stakeholders and executive and management teams
 <br>
+<br>
+<h3>Discussion of risk-based approach in the context of the NIST CSF. How does this approach help organizations prioritize their cybersecurity efforts? </h3>
+<br>
+ - A risk-based approach involves the process where you identify the level of risks in an organization and make them the priority for controls, policies, and procedures. Once the high level risks are worked on and reduced to acceptable level, management can focus on the low risks. We can also say the organization risk appetite and tolerance level has to be determined in order to reduce/mitigate the risk.
 
 <h2>STAY TUNED!!!</h2>
