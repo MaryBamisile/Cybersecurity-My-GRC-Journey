@@ -45,5 +45,16 @@ Metadata is data about data. It provides context and meaning to raw data, making
 <h3>Discussion of risk-based approach in the context of the NIST CSF. How does this approach help organizations prioritize their cybersecurity efforts? </h3>
 <br>
  - A risk-based approach involves the process where you identify the level of risks in an organization and make them the priority for controls, policies, and procedures. Once the high level risks are worked on and reduced to acceptable level, management can focus on the low risks. We can also say the organization risk appetite and tolerance level has to be determined in order to reduce/mitigate the risk.
+<br>
+<br>
+
+# Risk assessment 
+Risk Assessement is the process used to identify and evaluate risks and its potential effects. To successfully carry out risk assessment, you need to identify the assets and their threats.
+
+### 4 steps involved in risk assessments are: 
+1. <b>Identification:</b> Determine critical assets of the technology infrastructure.
+2. <b>Assessment:</b> Assess the identified security risks for the identified critical assets. 
+3. <b>Mitigation:</b> Determine how to effectively and efficiently allocate time and resources towards risk mitigation
+4.	<b>Prevention:</b> Implementation of processes to minimize threats and vulnerabilities from occurring.
 
 <h2>STAY TUNED!!!</h2>
