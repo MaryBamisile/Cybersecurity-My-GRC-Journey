@@ -28,10 +28,10 @@ Metadata is data about data. It provides context and meaning to raw data, making
 <li>Classifications (e.g., tags, categories)</li> 
 <li>Structural details (e.g., data format)</li>
 
-# Introduction to the (5) five core functions of the NIST Cybersecurity Framework and brief description of each function:
+# Introduction to the NIST Cybersecurity Framework 
 
-
-1.<b>	IDENTIFY (ID):</b> This process involves the identification of assets (hardware/software) and they are prioritized based on their classification, criticality, and business value.
+### (5) five core functions:
+1. <b>IDENTIFY (ID):</b> This process involves the identification of assets (hardware/software) and they are prioritized based on their classification, criticality, and business value.
 2. <b>PROTECT (PR):</b> The assets that has been identified are then protected. Access to systems and assets is controlled, incorporating the principle of Least privileged, remotes access is controlled and well-managed. RBAC role accordingly to the functions of the users.
 3.	<b>DETECT (DE):</b> Physical environments, personnel activities, networks, endpoints are all monitored. Monitoring for unauthorized personnel, malicious codes, connections, devices, and software is performed.
 4.	<b>RESPOND (RS): </b>There is response plan that must be followed during/after an incident (Incident depends on the event the organization categorized as an incident). All parties involved in the incidence response plan are well trained (table top talks) to prepare them ahead. The incidents are attended to and properly mitigated and documented.
