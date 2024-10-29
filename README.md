@@ -53,4 +53,10 @@ Risk Assessement is the process used to identify and evaluate risks and its pote
 3. <b>Mitigation:</b> Determine how to effectively and efficiently allocate time and resources towards risk mitigation
 4.	<b>Prevention:</b> Implementation of processes to minimize threats and vulnerabilities from occurring.
 
+# 3 classes of controls and purpose are: 
+ 
+1. <b>Administrative Control:</b> This is a type of control that involves the implementation and enforcement of security policies, rules, procedures, and guidelines by management level. The purpose serves to regulate access to classified information and systems. EG. User awareness training, user access policies, risk management, policy documentation and incident response plan.
+2. <b>Physical Control:</b> This is a type of control that organizations take to physically protect their assets. EG. security personnel, access control vestibule (mantrap), and CCTV cameras. The purpose serves to prevent unauthorized access to areas where sensitive information or critical business systems are located.
+3. <b>Technical Control:</b> This type of control involves implementation of measures to safeguard organization digital assets. E.g., firewalls, antivirus software, intrusion detection systems etc. The purpose is to prevent unauthorized access to digital systems and information by attackers or other malicious actors.
+
 <h2>STAY TUNED!!!</h2>
