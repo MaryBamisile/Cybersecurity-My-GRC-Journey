@@ -59,4 +59,11 @@ Risk Assessement is the process used to identify and evaluate risks and its pote
 2. <b>Physical Control:</b> This is a type of control that organizations take to physically protect their assets. EG. security personnel, access control vestibule (mantrap), and CCTV cameras. The purpose serves to prevent unauthorized access to areas where sensitive information or critical business systems are located.
 3. <b>Technical Control:</b> This type of control involves implementation of measures to safeguard organization digital assets. E.g., firewalls, antivirus software, intrusion detection systems etc. The purpose is to prevent unauthorized access to digital systems and information by attackers or other malicious actors.
 
+# Risk response options: 
+1. Avoidance: Avoiding an activity because the risks outweighs the potential gain
+2. Reduction/mitigation: Controls are put in place before undertaking the risk
+3. Transfer/Sharing: Risks can be transferred to 3rd party in exchange for payment
+4. Acceptance: Risk falls within the organization’s risk appetite.
+
+
 <h2>STAY TUNED!!!</h2>
