@@ -65,5 +65,7 @@ Risk Assessement is the process used to identify and evaluate risks and its pote
 3. Transfer/Sharing: Risks can be transferred to 3rd party in exchange for payment
 4. Acceptance: Risk falls within the organization’s risk appetite.
 
+# Security Governance
+Information Security governance is a set of management activities that establishes key roes and responsibilities, identifies and treat key asset risks and measures key security processes.
 
 <h2>STAY TUNED!!!</h2>
